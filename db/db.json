@@ -1,9 +1,78 @@
 {
   "photos": [
     {
-      "id": 1611152206106,
-      "src": "http://localhost:8080/img/1611152206091_53faa1_6540abd184a14efcaf1f073c630de3ea_mv2.jpg",
-      "title": "climbing"
+      "id": 1611989882253,
+      "albumId": 1612091195901,
+      "url": "http://localhost:8080/img/1611989882246_53faa1_6540abd184a14efcaf1f073c630de3ea_mv2.jpg",
+      "thumbnailUrl": "http://localhost:8080/img/1611989882246_53faa1_6540abd184a14efcaf1f073c630de3ea_mv2.jpg",
+      "title": "cgnfhg"
+    },
+    {
+      "id": 1611990031361,
+      "albumId": 1612091195901,
+      "url": "http://localhost:8080/img/1611990031301_DSC01619.JPG",
+      "thumbnailUrl": "http://localhost:8080/img/1611990031301_DSC01619.JPG",
+      "title": "fgghg"
+    },
+    {
+      "id": 1612015410520,
+      "albumId": 1612091195901,
+      "url": "http://localhost:8080/img/1612015410344_DSC01574.JPG",
+      "thumbnailUrl": "http://localhost:8080/img/1612015410344_DSC01574.JPG",
+      "title": "фото"
+    },
+    {
+      "id": 1612015453288,
+      "albumId": 1612091195901,
+      "url": "http://localhost:8080/img/1612015453102_DSC01618.JPG",
+      "thumbnailUrl": "http://localhost:8080/img/1612015453102_DSC01618.JPG",
+      "title": "природа"
+    },
+    {
+      "id": 1612091752810,
+      "albumId": 1612091735928,
+      "url": "http://localhost:8080/img/1612091752750_DSC01642.JPG",
+      "thumbnailUrl": "http://localhost:8080/img/1612091752750_DSC01642.JPG",
+      "title": "1"
+    },
+    {
+      "id": 1612091765193,
+      "albumId": 1612091735928,
+      "url": "http://localhost:8080/img/1612091765122_DSC01628.JPG",
+      "thumbnailUrl": "http://localhost:8080/img/1612091765122_DSC01628.JPG",
+      "title": "2"
+    },
+    {
+      "id": 1612092339687,
+      "albumId": 1612091735928,
+      "url": "http://localhost:8080/img/1612092339618_DSC01668.JPG",
+      "thumbnailUrl": "http://localhost:8080/img/1612092339618_DSC01668.JPG",
+      "title": "f"
+    },
+    {
+      "id": 1612099258146,
+      "albumId": 1612091195901,
+      "url": "http://localhost:8080/img/1612099258094_DSC01590.JPG",
+      "thumbnailUrl": "http://localhost:8080/img/1612099258094_DSC01590.JPG",
+      "title": "e"
+    }
+  ],
+  "albums": [
+    {
+      "id": 1612091195901,
+      "title": "t7fuf",
+      "userId": 1000
+    },
+    {
+      "id": 1612091735928,
+      "title": "album 2",
+      "userId": 1000
+    }
+  ],
+  "users": [
+    {
+      "id": 1000,
+      "name": "Ulyana"
     }
   ]
 }
